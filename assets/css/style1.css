@@ -1,0 +1,128 @@
+*{
+	margin:0;
+}
+
+
+
+#content   {
+
+
+}
+
+body {
+    background-image: url("../images/ep_naturalblack.png");
+    margin:0px;
+}
+
+header {
+	position: relative;
+	background-color: white;
+	width: 100%;
+	height: 90px;
+	bottom: auto;	
+	border-bottom-style: solid;
+    border-color: #d7d7d7;
+    border-width: 0px 0px 2px 0px;
+   
+	
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    float: right;
+    padding-right: 20px;
+    margin-bottom: -20px;
+}
+    
+li {
+	display: inline;
+	float:right;
+
+}
+
+a  {
+	display: block;
+    padding: 8px;
+    background-color: #dddddd;
+
+}
+
+
+
+
+.name {
+	color:white;
+	text-align: center;
+	float:left;
+	
+}
+
+footer {
+	position: fixed;
+	width: 100%;
+	height:83px;
+	bottom: 0;
+	text-align: center;
+	background-color: #666666;
+	color: #222222;
+	border: 10px #4aaaa5;
+	border-style: solid none none none;
+	line-height: 5.5;
+}
+
+#box2 {
+	background-color: white;
+	color: #black;
+	width: 239px;
+	height: 180p;
+	left:900px;
+	margin-bottom: 10px;
+	float: right;
+	margin-left: 55px;
+	margin-top: 60px;
+	margin-right:60px;
+}
+
+#box3 {
+	background-color:#4aaaa5;
+	width:220px;
+	height:80px;
+	position: relative;
+	left: 193px;
+	margin-top:0px;
+	margin-left:15px
+    margin-right: 156px
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+	float: left;
+}
+
+#contact {
+	background-color:white;
+	height:380px;
+	width:580px;
+	position: relative;
+	float:left;
+	margin-left:-200px;
+	margin-top:150px;
+	}
+
+form     {
+	text-align:left;
+}
+
+h1       {
+	color:#4aaaa5;
+	margin-left:20px;
+}
+
+
+#box6   {
+	background-color:white;
+	height:450px;
+	width:700px;
+	position:absolute;
+	float:right;
+	margin-left:70px;
+	margin-top:20px;
+}
